@@ -1,1 +1,5 @@
+Problem 1 and 2
 Load the training and test data using Keras without validation set.
+Train 10 classifiers that perform binary classification: Is the input image the digit i or is it a digit different from i? Each of the ten classifiers has an input layer consisting of 28 x 28 input neurons and an output layer consisting of a single output neuron.
+Implement mini-batch stochastic gradient descent using only numpy, that is, you are not allowed to use TensorFlow/Keras for SGD.
+Use argmax to determine the classifier with the strongest output and declare the corresponding digit as output.
