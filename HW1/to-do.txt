@@ -1,4 +1,2 @@
-Problem 3
-Create network with an input layer consisting of 28 x 28 input neurons and an output layer consisting of 10 output neurons.
-Use softmax and categorical cross entropy loss.
-Implement mini-batch stochastic gradient descent using only numpy, that is, you are not allowed to use TensorFlow/Keras for SGD.
+2/21/2019
+It's all officially done.
