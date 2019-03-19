@@ -1,0 +1,8 @@
+Create a convolutional neural network for the CIFAR10 data set 
+Load the CIFAR data in Keras
+Make sure that the data is divided into: training set, validation set, test set
+Use the training set to train your neural networks
+Evaluate their performance on the validation data set
+After trying several different architectures, choose the one that performs best of the validation set
+Train this final architecture on the data from the training set and validation set
+Evaluate its performance on the test set
