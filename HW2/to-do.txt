@@ -1,10 +1,12 @@
+Done
 Create a convolutional neural network for the CIFAR10 data set 
 Load the CIFAR data in Keras
 Make sure that the data is divided into: training set, validation set, test set
 Use the training set to train your neural networks
 Evaluate their performance on the validation data set
-
 After trying several different architectures, choose the one that performs best of the validation set
 Train this final architecture on the data from the training set and validation set
 Evaluate its performance on the test set
+
+To-do
 Reevaluate your best architecture using k-fold validation with k=5, that is, the size of the validation fold is 20%. Does the accuracy/loss obtain by k-fold validation differ from the accuracy/loss obtain by simple hold-out validation.
